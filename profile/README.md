@@ -77,6 +77,6 @@ Note: Licensing may differ by repository; please review the LICENSE file in each
 
 If you need to reach the maintainers privately, open an issue and request a maintainer contact; we’ll follow up.
 
-— The Lighthouse MC maintainers
+— Lighthouse MC
 
 [![Top](https://img.shields.io/badge/Top-181717?logo=github&logoColor=white&style=plastic)](#lighthouse-mc)
